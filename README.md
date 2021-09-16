@@ -2,7 +2,7 @@
 
 ### Install
 ```
-git clone https://github.com/andromeda9096/nginx-proxy-manager.git && cd ./nginx-proxy-manager && chmod +x ./install_proxy.sh && ./install_proxy.sh -y
+git clone https://github.com/andromeda9096/nginx-proxy-manager.git && cd ./nginx-proxy-manager && chmod +x ./install-proxy.sh && ./install-proxy.sh -y
 ```
 
 ### Login
